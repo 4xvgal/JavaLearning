@@ -25,5 +25,8 @@ public class GoodCalc03 extends Calculator03 {
         System.out.println(c.add(2, 3));
         System.out.println(c.subtract(2, 3));
         System.out.println(c.average(new int [] {2,3,4}));
+        char a;
+        char [] d = new char[3];
+        int [] i = { 0,1,2,3,4,5};
     }
 }
